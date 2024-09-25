@@ -1,5 +1,5 @@
 "use strict";
-// src/index.ts
+// วรดร สังข์อ่อง 1650706425
 var Genre;
 (function (Genre) {
     Genre["Fantasy"] = "Fantasy";
@@ -42,6 +42,7 @@ class Library {
         console.log(`Deleted book ID ${id}`);
     }
 }
+console.log("วรดร สังข์อ่อง 1650706425");
 // Instantiate the Library and Add Books
 const library = new Library();
 library.addBook({

@@ -1,3 +1,4 @@
+// วรดร สังข์อ่อง 1650706425
 enum Genre {
     Fantasy = "Fantasy",
     Adventure = "Adventure",
@@ -51,6 +52,8 @@ class Library {
         console.log(`Deleted book ID ${id}`);
     }
 }
+
+console.log("วรดร สังข์อ่อง 1650706425");
 
 // Instantiate the Library and Add Books
 const library = new Library();
